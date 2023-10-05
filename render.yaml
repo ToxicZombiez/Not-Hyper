@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: Hypertabs
+    name: not-hypertabs
     env: node
     buildCommand: npm install
     startCommand: npm start
