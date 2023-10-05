@@ -1,5 +1,5 @@
 services:
   - type: web
     name: Hypertabs
-    env: docker 
+    env: node
     plan: free
